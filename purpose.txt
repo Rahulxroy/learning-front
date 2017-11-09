@@ -11,10 +11,7 @@ first pull success >
 git pull origin master
 
 
-<<<<<<< 7a9a2380208138dedbacb7c2eab32e8988593506
 i am adding this line
 
-=======
 changing the seme line
 and adding another line
->>>>>>> check same line change
