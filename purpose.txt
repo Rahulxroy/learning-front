@@ -1,0 +1,6 @@
+Purpose is to learn Front-end development
+
+date: 9/11/2017,time: 23:50
+
+trying to get comfortable with git.
+
