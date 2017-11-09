@@ -4,3 +4,9 @@ date: 9/11/2017,time: 23:50
 
 trying to get comfortable with git.
 
+first push success > 
+git push origin master
+
+first pull success >
+git pull origin master
+
